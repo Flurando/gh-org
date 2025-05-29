@@ -16,7 +16,7 @@
 ;; Load the publishing system
 (require 'ox-publish)
 
-(load "./config.el")
+(load "config.el")
 
 ;; Generate the site output
 (org-publish-all t)
