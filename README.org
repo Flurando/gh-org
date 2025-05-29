@@ -1,5 +1,23 @@
 #+title: Org Website Example
 
-This repo is an example of how you can build and publish a website with [[https://orgmode.org][Org Mode]].
+* Why Fork?
 
-Check out the [[https://systemcrafters.net/publishing-websites-with-org-mode/][Publishing Websites with Org Mode]] series to learn how this was created!
+Because it is cool to write Github Page in org?
+
+I guess, ha.
+
+So yes, since I already have some experience on making a github page with static site generator
+
+I would love to try taking org up as well
+
+Build locally? No, No, No, Melpa is very unstable in CN, man.
+
+* How to use?
+
+Well, you just fork this (it is ok if you only fork the main branch because the gh-pages would be created if absent)
+
+then do the first commit and push to trigger the build
+
+After that MANNUALLY pick the gh-pages branch with / (root) as the project page setting
+
+visit the desired page and enjoy!
